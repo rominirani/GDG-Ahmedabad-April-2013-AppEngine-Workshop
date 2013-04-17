@@ -1,0 +1,7 @@
+<cronentries>
+<cron>
+<url>/cron/checkstatus</url>
+<description>Check Status every 60 minutes</description>
+<schedule>every 60 minutes</schedule>
+</cron>
+</cronentries>
