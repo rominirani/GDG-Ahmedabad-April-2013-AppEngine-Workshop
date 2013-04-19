@@ -21,7 +21,7 @@ My development environment consisted of the following software:
 
 - `Eclipse Juno 4.2` 
 - `Google Eclipse Plugin (ADT) for Juno`
-- `App Engine Java SDK 1.7.7`
+- `App Engine Java SDK 1.7.7.1` - Downloadable from [http://googleappengine.googlecode.com/files/appengine-java-sdk-1.7.7.1.zip](http://googleappengine.googlecode.com/files/appengine-java-sdk-1.7.7.1.zip) 
 
 For any questions, write to me at [romin.irani@mindstormsoftware.com](mailto:romin.irani@mindstormsoftware.com)
 
